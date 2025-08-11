@@ -1,5 +1,5 @@
 
-# Project Title - Customer Churn Analysis using SQL, Python and PowerBI
+# Telecom Churn Analytics Dashboard: Segmentation, Trends & Predictions
 
 # Overview:
 This project explores customer churn patterns in a telecom company using a combination of SQL, Python, and Power BI. The goal is to identify factors influencing churn and help businesses take data-driven actions to retain customers.
